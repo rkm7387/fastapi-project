@@ -1,2 +1,7 @@
 python-dotenv
 fastapi
+numpy
+pandas
+ipykernel
+scikit-learn
+redis
